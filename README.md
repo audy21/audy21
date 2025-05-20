@@ -2,11 +2,11 @@
 
 ### Data Scientist | Machine Learning Engineer
  
-📍 Jakarta, Indonesia  
+📍 **Location**: Jakarta, Indonesia  
 
-📧 Email: audy20.work@gmail.com
+✉️ **Email**: [audy20.work@gmail.com](mailto:audy20.work@gmail.com) 
 
-🔗 LinkedIn: [Audy's LinkedIn](https://linkedin.com/in/audyml)  
+💼 **LinkedIn**: [Audy's LinkedIn](https://linkedin.com/in/audyml)  
 
 ---
 
