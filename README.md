@@ -19,11 +19,15 @@ My journey involves hands-on projects that bridge theory and real-world applicat
 
 ## 🚀 Featured Projects
 
+### Data Science & Machine Learning
 - [**DataCamp Portfolio**](https://github.com/audy21/datacamp): Documenting my progress through DataCamp's Data Analyst & Data Science certifications.
 - [**Kaggle Explorations**](https://github.com/audy21/kaggle): Practical projects utilizing Kaggle datasets to enhance my data analysis skills.
 - [**Advanced Visualizations**](https://github.com/audy21/data-exploratory-portfolio): Showcasing advanced data visualization techniques from recent practices.
 - [**Machine Learning Playground**](https://github.com/audy21/machine-learning-exploratory): Experiments and projects to deepen my understanding of machine learning concepts.
 - [**SQL Explorations**](https://github.com/audy21/sql-exploratory): Projects focusing on SQL to strengthen my data querying capabilities.
+
+### Technical Writing
+- [**Technical Writing Portfolio**](https://github.com/audy21/technicalwriter-exploratory): Comprehensive collection of technical documentation samples across various domains including banking, healthcare, e-commerce, and DevOps platforms.
 
 ---
 
