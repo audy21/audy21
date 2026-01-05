@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Audy
 
-### Data Scientist | Machine Learning Engineer
+### Data Scientist | Data Analyst | Machine Learning Engineer
  
 📍 **Location**: Jakarta, Indonesia  
 
