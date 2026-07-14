@@ -1,6 +1,6 @@
-# 👋 Hello, I'm Audy
+# Hello, I'm Audy
 
-### Data Scientist | Data Analyst | Machine Learning Engineer
+### IT Product Management (AI Native) | AI Agents & Product Strategy | Technical Writer | UX Writer
  
 📍 **Location**: Jakarta, Indonesia  
 
@@ -10,14 +10,14 @@
 
 ---
 
-## 🧠 About Me
+## About Me
 
 Recent transitioning from UX/Technical Writer into the field of Data Science, with a keen interest in Machine Learning and Generative AI.
 My journey involves hands-on projects that bridge theory and real-world applications, aiming to solve complex problems through data-driven solutions.
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 ### Data Science & Machine Learning
 - [**Advanced Visualizations**](https://github.com/audy21/data-exploratory-portfolio): Showcasing advanced data visualization techniques from recent practices.
@@ -29,7 +29,7 @@ My journey involves hands-on projects that bridge theory and real-world applicat
 
 ---
 
-## 🛠️ Technical Skills
+## Technical Skills
 
 **Languages**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -59,11 +59,11 @@ My journey involves hands-on projects that bridge theory and real-world applicat
 
 ---
 
-## 🎓 Education
+## Education
 
 - **Undergraduate System Information Student** – BINUS University (2022 - Recent)
 
-## 📜 Certifications
+## Certifications
 
 - **DataCamp:** Data Science Associate Certification, SQL Associate Certification, Machine Learning in Python, Data Scientist in Python
 - **Coursera:** Data Analytics Specialization - Google
@@ -71,6 +71,6 @@ My journey involves hands-on projects that bridge theory and real-world applicat
 
 ---
 
-## 🤝 Let's Connect
+## Let's Connect
 
 I'm open to collaboration and eager to contribute to projects in Data Science and Machine Learning. Let's connect and explore opportunities to work together!
